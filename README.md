@@ -1,5 +1,5 @@
 # niceBridge
-R-Pi Bridge for niCE-life and 
+R-Pi Bridge for niCE-life and UEFIS/ESIM IoT
 
 **1.** Download the approrpiate Raspberry pi .img image from [here](https://drive.google.com/drive/folders/1eWdnLL01POr_hEptyvLRVUqQ3yRnhMRT?usp=sharing)
 
