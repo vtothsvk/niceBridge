@@ -7,9 +7,9 @@ R-Pi Bridge for niCE-life and
 
 3. Flash the given image onto an SD card (prefferably using [balenaEtcher](https://www.balena.io/etcher/))
 
-4. (Optional) Configure Raspberry pi WiFi
+4. (Optional) Configure Raspberry pi WiFi:
 
-  * Create a file named **wpa_supplicant.conf** in the root of the flashed SD card with the following content
+Create a file named **wpa_supplicant.conf** in the root of the flashed SD card with the following content
 
 ```
 country=SK
