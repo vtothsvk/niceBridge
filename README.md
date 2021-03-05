@@ -1,7 +1,7 @@
 # niceBridge
 R-Pi Bridge for niCE-life and 
 
-**1.** Download the approrpiate Raspberry pi OS image from [here](https://drive.google.com/drive/folders/1eWdnLL01POr_hEptyvLRVUqQ3yRnhMRT?usp=sharing)
+**1.** Download the approrpiate Raspberry pi .img image from [here](https://drive.google.com/drive/folders/1eWdnLL01POr_hEptyvLRVUqQ3yRnhMRT?usp=sharing)
 
 **2.** Unpack the image
 
