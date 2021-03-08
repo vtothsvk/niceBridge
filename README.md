@@ -26,7 +26,7 @@ network={
 
 **6.** Power up the R-Pi by plugging in its power supply
 
-**7.** (Optional) You can check whether the R-Pi is connected succesfully by checking its connection on the router 
+**7.** (Optional) You can check whether the R-Pi is connected succesfully by checking its connection on the router (be aware that the R-Pi needs some time to boot, so do not panic, if you won't see a connection right away)
 
 <img src="https://i.ibb.co/RNVTdGm/router.png" alt="image0" width="650"/>
 
